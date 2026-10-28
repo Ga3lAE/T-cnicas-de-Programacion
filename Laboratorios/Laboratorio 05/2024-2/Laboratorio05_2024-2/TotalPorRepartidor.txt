@@ -1,0 +1,42 @@
+                                                          EMPRESA DE REPARTOS A DOMICILIO VENUS S.A.
+                                                                           ENTREGAS POR REPARTIDORES
+========================================================================================================================================================================================================
+DNI       NOMBRE                                       VEHICULO     DISTRITO  TOTAL PLATOS  MONTO PLATOS      DESCUENTO PLATOS    DESCUENTO CLIENTES  PAGO REPARTIDOR   TOTAL INGRESADO   
+========================================================================================================================================================================================================
+54805724  Vizcardo Sinche Maribel                      MOTOCICLETA  4826          164         4307.80             325.61               61.65             430.78           3489.75         
+95482222  Asmad Chavez Adria                           BICICLETA    8667          235         7261.70             575.86              718.38             363.09           5604.37         
+60685215  Sakaguchi Mori Carlos Ronal                  MOTOCICLETA  1439          130         3847.80             317.09              407.42             384.78           2738.51         
+24721987  Ramirez Astete Karina Estefania              BICICLETA    6092           89         2558.80             178.87              189.27             127.94           2062.72         
+64102186  Diaz Tang Enrique                            BICICLETA    7318          219         6820.50             649.90              150.18             341.02           5679.40         
+96430314  Sam Yallico Ines                             BICICLETA    8659           82         2771.20             169.85              446.44             138.56           2016.36         
+82962199  Pena Suarez Glenda Margot                    MOTOCICLETA  9713          234         7484.30             571.22              317.18             748.43           5847.47         
+52397686  Narvaez Castillo Jesus Rafael                MOTOCICLETA  6936          112         2746.20             225.54              256.94             274.62           1989.10         
+25516055  Jauregui Del Castillo Victor Ricardo         MOTOCICLETA  5964          145         3869.30             436.53              355.47             386.93           2690.37         
+13037550  Rodriguez Moreno Blanca Ofelia               BICICLETA    6223          253         6925.80             514.52              740.63             346.29           5324.36         
+71914615  Escalante Rojas Ines Adria                   BICICLETA    4803          316         8443.50             539.80              562.76             422.18           6918.77         
+97394359  Egusquiza Berrocal Doris Nancy               MOTOCICLETA  8667          187         5885.60             378.35              343.30             588.56           4575.40         
+96407230  Moscoso Arias Fiorella                       BICICLETA    6184          281         7994.60             491.98              372.09             399.73           6730.79         
+25921814  Solis Narvaez Maria Madeleine                BICICLETA    7752          100         2401.70             191.29               85.43             120.08           2004.89         
+24542282  Lozada Arguedas Felicita Valentina           MOTOCICLETA  4803          243         7947.40             613.99              465.24             794.74           6073.43         
+28777346  Hijar Lam Martin                             MOTOCICLETA  8659          168         4901.20             297.49              711.91             490.12           3401.68         
+34795643  Pairazaman Raffo Tatiana Delicia             BICICLETA    1439          190         4802.30             333.22              365.95             240.12           3863.01         
+78894665  Bravo Cortes Janet Flor                      BICICLETA    4504           72         1819.20             148.25              216.41              90.96           1363.58         
+73953533  Justino Norabuena Virginia Karina            BICICLETA    9713          396        12139.20             903.18              706.91             606.96           9922.15         
+43679625  Patino Bolanos Delicia Virginia              MOTOCICLETA  6092          211         7187.10             697.25              385.04             718.71           5386.11         
+23889863  Arroyo Tomasiche Natalia                     MOTOCICLETA  6223          158         4809.20             306.25              146.51             480.92           3875.52         
+88923038  Vega Soria Henrry                            MOTOCICLETA  2765          308         9370.20             803.30              671.32             937.02           6958.57         
+35679675  Prado Vera Juan                              MOTOCICLETA  5817          360        10734.40             679.24              339.16            1073.44           8642.56         
+32579168  Contreras Chang Johana Cinthia               MOTOCICLETA  5926          190         5989.10             147.34              595.74             598.91           4647.11         
+14994362  Lozada Forzani Delia                         MOTOCICLETA  7752          155         3808.10             320.08              161.64             380.81           2945.57         
+53469476  Solis Chung Rolando                          BICICLETA    5817          156         5094.60             550.91              471.52             254.73           3817.43         
+24363330  Camacho Pairazaman Ydali Lucero              MOTOCICLETA  7318          150         4038.40             312.27              453.42             403.84           2868.88         
+80913411  Mercado Coronel Elia                         MOTOCICLETA  6184          247         6964.30             423.91              203.89             696.43           5640.07         
+89367567  Florencio Coronado Alonso                    MOTOCICLETA  4504          312         9171.60             629.30              450.19             917.16           7174.95         
+32708645  Valverde Maeireizo Melvin Jair               BICICLETA    5926          173         5861.30             488.57              318.75             293.07           4760.92         
+96708707  Sinche Rivero Yvonne Silvana                 BICICLETA    2765          298         9146.60             789.14              109.42             457.33           7790.70         
+33479141  Trigueros Jugo Luz                           BICICLETA    5964           89         2222.90             190.41              107.86             111.14           1813.49         
+77697252  Zarate Perez Alexander                       BICICLETA    6936          254         7947.80             622.04              295.92             397.39           6632.45         
+88547910  Lozada Iberos Heli Blanca                    BICICLETA    4826          325         9724.70             741.75              665.38             486.24           7831.33         
+95324349  Luna Vargas Waldemar                         MOTOCICLETA  4311          292         7832.80             477.63              629.55             783.28           5942.33         
+========================================================================================================================================================================================================
+                                                                                 7294       214831.20           16041.93            13478.87           16286.30         169024.11         

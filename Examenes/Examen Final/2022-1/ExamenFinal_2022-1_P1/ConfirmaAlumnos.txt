@@ -1,0 +1,25 @@
+CONFIRMACION DE CARGADO DE ALUMNOS
+==========================================================================================================================================================================
+CODIGONOMBRE                                                      CRED APROBADOS      CRED DESAPROBADOS   CRED PARA FACU      PROMEDIO APROBADOS  PROMEDIO DESAPROBADOSPROMEDIO TOTAL      
+==========================================================================================================================================================================
+20211011Portugal Raffo Aleexander                                   0.00                0.00                55.50               0.00                0.00                0.00                0                   
+20191956Yallico Paredes Lourdes Carmela                             0.00                0.00                4.50                0.00                0.00                0.00                0                   
+20184087Zegarra Casanova Estefania                                  0.00                0.00                12.50               0.00                0.00                0.00                0                   
+20216707Chang Segura Angel                                          0.00                0.00                25.50               0.00                0.00                0.00                0                   
+20206035Ortiz Epiquen Henry Israel                                  0.00                0.00                2.50                0.00                0.00                0.00                0                   
+20193794Garcia Yino Americo Waldemar                                0.00                0.00                44.50               0.00                0.00                0.00                0                   
+20209352Bravo Vizcarra Roberto                                      0.00                0.00                2.50                0.00                0.00                0.00                0                   
+20200875Norabuena Villegas Arturo Rafael                            0.00                0.00                6.00                0.00                0.00                0.00                0                   
+20215105Valderrama Mendoza Luis Adolfo                              0.00                0.00                12.50               0.00                0.00                0.00                0                   
+20211731Loyola Iberos Angel Gustavo                                 0.00                0.00                34.50               0.00                0.00                0.00                0                   
+20198025Moscoso Sueldo Marina                                       0.00                0.00                34.50               0.00                0.00                0.00                0                   
+20212521Soria Castillo Luis Gustavo                                 0.00                0.00                24.50               0.00                0.00                0.00                0                   
+20194593Lam Vizcardo Milagros Yvonne                                0.00                0.00                30.00               0.00                0.00                0.00                0                   
+20193402Benavente Zimic Madeleine Zkenia                            0.00                0.00                0.50                0.00                0.00                0.00                0                   
+20216890Salamanca Gavidia Alex                                      0.00                0.00                32.50               0.00                0.00                0.00                0                   
+20208238Alfaro Preciado Johnny                                      0.00                0.00                24.50               0.00                0.00                0.00                0                   
+20214468Iparraguirre Villegas Nicolas Edilberto                     0.00                0.00                0.50                0.00                0.00                0.00                0                   
+20197168Aldave Zevallos Rosario                                     0.00                0.00                48.50               0.00                0.00                0.00                0                   
+20215585Retto Arca Annie Magda                                      0.00                0.00                4.50                0.00                0.00                0.00                0                   
+20207732Gamarra Alcocer Virginia                                    0.00                0.00                7.00                0.00                0.00                0.00                0                   
+20217650Rondon Egusquiza Carmela Valentina                          0.00                0.00                42.50               0.00                0.00                0.00                0                   

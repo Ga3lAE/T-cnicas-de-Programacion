@@ -1,0 +1,35 @@
+54805724   Motocicleta   4826   Santa Rosa
+95482222     Bicicleta   8667   Jesus Maria
+60685215   Motocicleta   1439   Comas
+24721987     Bicicleta   6092   Punta Hermosa
+64102186     Bicicleta   7318   La Victoria
+96430314     Bicicleta   8659   Puente Piedra
+82962199   Motocicleta   9713   San Isidro
+52397686   Motocicleta   6936   San Luis
+25516055   Motocicleta   5964   Pueblo Libre
+13037550     Bicicleta   6223   Miraflores
+71914615     Bicicleta   4803   Carabayllo
+97394359   Motocicleta   8667   Jesus Maria
+96407230     Bicicleta   6184   Pachacamac
+25921814     Bicicleta   7752   Los Olivos
+24542282   Motocicleta   4803   Carabayllo
+28777346   Motocicleta   8659   Puente Piedra
+34795643     Bicicleta   1439   Comas
+78894665     Bicicleta   4504   Santa Anita
+73953533     Bicicleta   9713   San Isidro
+43679625   Motocicleta   6092   Punta Hermosa
+23889863   Motocicleta   6223   Miraflores
+88923038   Motocicleta   2765   San Juan de Miraflores
+35679675   Motocicleta   5817   San Miguel
+32579168   Motocicleta   5926   Chaclacayo
+14994362   Motocicleta   7752   Los Olivos
+53469476     Bicicleta   5817   San Miguel
+24363330   Motocicleta   7318   La Victoria
+80913411   Motocicleta   6184   Pachacamac
+89367567   Motocicleta   4504   Santa Anita
+32708645     Bicicleta   5926   Chaclacayo
+96708707     Bicicleta   2765   San Juan de Miraflores
+33479141     Bicicleta   5964   Pueblo Libre
+77697252     Bicicleta   6936   San Luis
+88547910     Bicicleta   4826   Santa Rosa
+95324349   Motocicleta   4311   Lince

@@ -1,0 +1,5 @@
+                                                                     BIBLIOTECA VENUS
+CODIGO    NOMBRE                                                      LIBRO     TITULO                                            OBSERVACIO                                                  
+81082011  Arroyo Gordillo Maria Heli                                  BB35881   Una Navidad                                       SE LE ENTREGÓ EL LIBRO
+15129661  Wong Martel Madeleine                                       PL70268   Lady -- Windermeres Fan                           SE LE ENTREGÓ EL LIBRO
+65071478  Mejia Diaz Blanca Milagros                                  QO90975   La Peau de chagrin                                SE LE ENTREGÓ EL LIBRO

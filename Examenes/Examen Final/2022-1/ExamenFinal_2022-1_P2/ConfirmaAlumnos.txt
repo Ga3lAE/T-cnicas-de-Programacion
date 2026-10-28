@@ -1,0 +1,26 @@
+                                                      CONFIRMACION DE CARGA DE CURSOS
+CONFIRMACION DE CARGADO DE ALUMNOS
+==========================================================================================================================================================================
+CODIGO    NOMBRE                                                      CRED PARA FACU      CRED APROBADOS      CRED DESAPROBADOS   
+==========================================================================================================================================================================
+20211011  Portugal Raffo Aleexander                                   55.50               0.00                0.00                
+20191956  Yallico Paredes Lourdes Carmela                             4.50                0.00                0.00                
+20184087  Zegarra Casanova Estefania                                  12.50               0.00                0.00                
+20216707  Chang Segura Angel                                          25.50               0.00                0.00                
+20206035  Ortiz Epiquen Henry Israel                                  2.50                0.00                0.00                
+20193794  Garcia Yino Americo Waldemar                                44.50               0.00                0.00                
+20209352  Bravo Vizcarra Roberto                                      2.50                0.00                0.00                
+20200875  Norabuena Villegas Arturo Rafael                            6.00                0.00                0.00                
+20215105  Valderrama Mendoza Luis Adolfo                              12.50               0.00                0.00                
+20211731  Loyola Iberos Angel Gustavo                                 34.50               0.00                0.00                
+20198025  Moscoso Sueldo Marina                                       34.50               0.00                0.00                
+20212521  Soria Castillo Luis Gustavo                                 24.50               0.00                0.00                
+20194593  Lam Vizcardo Milagros Yvonne                                30.00               0.00                0.00                
+20193402  Benavente Zimic Madeleine Zkenia                            0.50                0.00                0.00                
+20216890  Salamanca Gavidia Alex                                      32.50               0.00                0.00                
+20208238  Alfaro Preciado Johnny                                      24.50               0.00                0.00                
+20214468  Iparraguirre Villegas Nicolas Edilberto                     0.50                0.00                0.00                
+20197168  Aldave Zevallos Rosario                                     48.50               0.00                0.00                
+20215585  Retto Arca Annie Magda                                      4.50                0.00                0.00                
+20207732  Gamarra Alcocer Virginia                                    7.00                0.00                0.00                
+20217650  Rondon Egusquiza Carmela Valentina                          42.50               0.00                0.00                

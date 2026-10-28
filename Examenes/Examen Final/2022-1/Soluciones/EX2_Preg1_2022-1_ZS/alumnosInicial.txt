@@ -1,0 +1,23 @@
+Datos Iniciales
+======================================================================================================================================================
+20211011          Portugal Raffo Aleexander               12.50          0.00          55.50
+20191956          Yallico Paredes Lourdes Carmela         75.50          4.50          4.50
+20184087          Zegarra Casanova Estefania              55.50          0.00          12.50
+20216707          Chang Segura Angel                      45.50          10.50          25.50
+20206035          Ortiz Epiquen Henry Israel              78.50          10.50          2.50
+20193794          Garcia Yino Americo Waldemar            16.50          0.00          44.50
+20209352          Bravo Vizcarra Roberto                  82.50          0.00          2.50
+20200875          Norabuena Villegas Arturo Rafael        78.00          3.50          6.00
+20215105          Valderrama Mendoza Luis Adolfo          48.50          2.50          12.50
+20211731          Loyola Iberos Angel Gustavo             56.50          3.50          34.50
+20198025          Moscoso Sueldo Marina                   36.50          2.50          34.50
+20212521          Soria Castillo Luis Gustavo             45.50          3.50          24.50
+20194593          Lam Vizcardo Milagros Yvonne            40.00          10.50          30.00
+20193402          Benavente Zimic Madeleine Zkenia        75.50          2.50          0.50
+20216890          Salamanca Gavidia Alex                  28.50          2.00          32.50
+20208238          Alfaro Preciado Johnny                  56.50          3.50          24.50
+20214468          Iparraguirre Villegas Nicolas Edilberto 78.50          4.50          0.50
+20197168          Aldave Zevallos Rosario                 12.50          0.00          48.50
+20215585          Retto Arca Annie Magda                  58.50          2.50          4.50
+20207732          Gamarra Alcocer Virginia                65.00          3.00          7.00
+20217650          Rondon Egusquiza Carmela Valentina      28.50          0.00          42.50

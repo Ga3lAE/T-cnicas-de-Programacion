@@ -1,0 +1,213 @@
+EN-77971  ENSALADA HONEY MEDIANA CON POLLO                  ENSALADAS                53          23.90         1266.70       1266.70       
+AD-53477  PAPAS DORADAS                                     ADICIONAL                36          15.90         572.40        286.20        
+BR-15525  1/2 POLLO ANTICUCHO                               BRASA                    62          58.50         3627.00       3627.00       
+BR-15756  1/2 POLLO A LO BRAVO                              BRASA                    52          50.90         2646.80       2646.80       
+AD-53546  CHOCLO                                            ADICIONAL                82          9.90          811.80        405.90        
+PA-11500  PARRILLA PARA CUATRO                              PARRILLA                 17          128.90        2191.30       2191.30       
+BE-39987  FANTA 1 LITRO                                     BEBIDAS                  21          15.50         325.50        325.50        
+AD-53814  PALTA                                             ADICIONAL                100         9.90          990.00        495.00        
+EN-77703  ENSALADA SENSACION GRANDE SOLO                    ENSALADAS                79          24.90         1967.10       1967.10       
+PA-11850  BIFE A LA PARRILLA                                PARRILLA                 76          53.90         4096.40       4096.40       
+EN-77762  ENSALADA DELICIA GRANDE SOLO                      ENSALADAS                20          23.90         478.00        478.00        
+PO-11171  TORTA DE CHOCOLATE                                POSTRES                  37          15.90         588.30        588.30        
+AD-53957  PAPAS FRITAS 1/2 PORCION                          ADICIONAL                23          10.90         250.70        125.35        
+AD-53991  HUEVO                                             ADICIONAL                42          3.90          163.80        81.90         
+BE-39903  CHICHA1/2 LITRO                                   BEBIDAS                  74          10.50         777.00        777.00        
+BE-39475  INTIPALKA SYRAH                                   BEBIDAS                  66          71.90         4745.40       4745.40       
+BR-15745  1/2 POLLO PARRILLERO ORIGINAL- ARROCERO           BRASA                    87          48.90         4254.30       4254.30       
+BE-39810  INTIPALKA MALBEC                                  BEBIDAS                  28          71.90         2013.20       2013.20       
+PO-11172  TORTA DE NARANJA                                  POSTRES                  32          15.90         508.80        508.80        
+PO-11471  1 BOLA DE HELADO                                  POSTRES                  117         8.90          1041.30       1041.30       
+BR-15760  1/4 POLLO BBQ/HOT ARROCERO                        BRASA                    42          34.50         1449.00       1449.00       
+BE-39864  INKA COLA 1/2 LITRO                               BEBIDAS                  44          7.00          308.00        308.00        
+ES-31815  MOLLEJITAS AL PLATO                               ESPECIALES               76          30.90         2348.40       2348.40       
+BR-15621  1/4 POLLO BBQ/HOT PAPAS ENSALADA                  BRASA                    85          33.50         2847.50       2847.50       
+BE-39160  INKA COLA 1 LITRO                                 BEBIDAS                  155         15.50         2402.50       2402.50       
+PI-15539  PIQUEOS MINI POLLITOS PANKO                       PIQUEO                   4           21.90         87.60         87.60         
+EN-73410  ANTICUCHO-POLLO                                   ENTRADA                  32          12.90         412.80        412.80        
+BR-15945  1/2 POLLO BBQ/HOT PAPAS ENSALADA                  BRASA                    9           48.90         440.10        440.10        
+PO-11611  TRES LECHES                                       POSTRES                  68          15.90         1081.20       1081.20       
+BR-15823  1/4 POLLO BBQ/HOT ENCAMOTADO                      BRASA                    102         36.90         3763.80       3763.80       
+EN-77493  ENSALADA CESARS MEDIANA CON POLLO                 ENSALADAS                190         23.90         4541.00       4541.00       
+BR-15592  1/4 POLLO ANTICUCHO                               BRASA                    15          33.90         508.50        508.50        
+BE-39489  FANTA 1/2 LITRO                                   BEBIDAS                  43          7.00          301.00        301.00        
+BR-15926  1/2 POLLO BBQ/HOT ARROCERO                        BRASA                    22          49.90         1097.80       1097.80       
+BE-39199  LIMONADA 1 LITRO                                  BEBIDAS                  85          10.50         892.50        892.50        
+BR-15611  1/2 POLLO PAPAS ENSALADA                          BRASA                    40          46.90         1876.00       1876.00       
+AD-53502  PORCION DE CAMOTE                                 ADICIONAL                22          15.90         349.80        174.90        
+EN-77572  ENSALADA FRESCA REGULAR                           ENSALADAS                101         18.90         1908.90       1908.90       
+BR-15197  1/2 POLLO ARROCERO                                BRASA                    123         47.50         5842.50       5842.50       
+EN-90758  BROCHETAS DE POLLO                                ENTRADA                  47          25.90         1217.30       1217.30       
+ES-31796  ANTICUCHO DE CORAZON AL PLATO                     ESPECIALES               40          31.90         1276.00       1276.00       
+BE-39227  SPRITE1/2 LITRO                                   BEBIDAS                  91          7.00          637.00        637.00        
+AD-53760  ARROZ                                             ADICIONAL                33          6.90          227.70        113.85        
+PO-11731  ARROZ CON LECHE                                   POSTRES                  37          8.90          329.30        329.30        
+BE-39695  SANGRIA                                           BEBIDAS                  140         36.90         5166.00       5166.00       
+PO-11751  MAZAMORRA MORADA                                  POSTRES                  93          8.90          827.70        827.70        
+AD-53764  PLATANO-HUEVO                                     ADICIONAL                40          6.90          276.00        138.00        
+AP-73500  CHORIZOS COCKTAIL                                 APERITIVO                77          12.90         993.30        993.30        
+SA-55330  SANGUCHE PARRILLERO                               SANGUCHE                 55          24.90         1369.50       1369.50       
+EN-77910  ENSALADA DELICIA MEDIANA CON POLLO                ENSALADAS                164         22.90         3755.60       3755.60       
+BR-15419  1/4 POLLO BBQ/HOT A LO BRAVO                      BRASA                    58          37.90         2198.20       2198.20       
+PO-11620  CHEESECAKE DE FRESA                               POSTRES                  51          15.90         810.90        810.90        
+BR-15921  1/4 POLLO PAPAS ENSALADA                          BRASA                    47          29.50         1386.50       1386.50       
+BR-15479  1/2 POLLO PARRILLERO ORIGINAL A LO BRAVO          BRASA                    106         51.90         5501.40       5501.40       
+BR-15326  1/4 POLLO PARRILLERO ORIGINAL A LO BRAVO          BRASA                    16          36.90         590.40        590.40        
+BR-15510  1/4 POLLO PARRILLERO ORIGINAL ENCAMOTADO          BRASA                    19          35.90         682.10        682.10        
+BR-15116  1/2 POLLO ENCAMOTADO                              BRASA                    157         49.90         7834.30       7834.30       
+EN-77214  ENSALADA FRESCA GRANDE                            ENSALADAS                58          22.90         1328.20       1328.20       
+PI-15392  PIQUEOS ANTICUCHO                                 PIQUEO                   38          18.90         718.20        718.20        
+BR-15142  1/2 POLLO BBQ/HOT A LO BRAVO                      BRASA                    48          52.90         2539.20       2539.20       
+BR-15136  1/2 POLLO BBQ/HOT ANTICUCHO                       BRASA                    128         60.50         7744.00       7744.00       
+EN-90365  MOLLEGITAS A LA PARRILLA                          ENTRADA                  21          25.90         543.90        543.90        
+EN-77381  ENSALADA HONEY GRANDE CON POLLO                   ENSALADAS                112         32.90         3684.80       3684.80       
+BR-15864  1/4 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA      BRASA                    97          32.50         3152.50       3152.50       
+BR-15272  1/2 POLLO PARRILLERO ORIGINAL ANTICUCHO           BRASA                    13          59.90         778.70        778.70        
+EN-77690  ENSALADA CESARS GRANDE CON POLLO                  ENSALADAS                66          32.90         2171.40       2171.40       
+BE-39141  CHICHA 1 LITRO                                    BEBIDAS                  57          21.90         1248.30       1248.30       
+AD-53377  PLATANO                                           ADICIONAL                119         3.90          464.10        232.05        
+PO-11621  CHEESECAKE DE MARACUYA                            POSTRES                  20          15.90         318.00        318.00        
+BR-15578  1/4 POLLO A LO BRAVO                              BRASA                    65          33.50         2177.50       2177.50       
+PA-11692  PARRILLA PARA DOS                                 PARRILLA                 50          89.90         4495.00       4495.00       
+BE-39137  CERVEZA PILSEN                                    BEBIDAS                  60          12.00         720.00        720.00        
+BR-15378  1/4 POLLO ARROCERO                                BRASA                    57          33.50         1909.50       1909.50       
+PI-15608  PIQUEOS CHICHARRON DE POLLO                       PIQUEO                   67          27.90         1869.30       1869.30       
+PI-15488  PIQUEOS CHORIZOS COCKTAIL                         PIQUEO                   13          16.90         219.70        219.70        
+BR-15297  1/2 POLLO BBQ/HOT ENCAMOTADO                      BRASA                    72          51.90         3736.80       3736.80       
+BE-39955  CASILLERO DEL DIABLO TINTO                        BEBIDAS                  183         73.90         13523.70      13523.70      
+PI-15404  PIQUEOS BROCHETA                                  PIQUEO                   27          17.90         483.30        483.30        
+BR-15319  1/2 POLLO PARRILLERO ORIGINAL PAPAS ENSALADA      BRASA                    101         47.90         4837.90       4837.90       
+EN-77156  ENSALADA COCIDA GRANDE                            ENSALADAS                54          22.90         1236.60       1236.60       
+BE-39536  SPRITE 1 LITRO                                    BEBIDAS                  206         15.50         3193.00       3193.00       
+AD-53939  TEQUENO                                           ADICIONAL                39          4.90          191.10        95.55         
+BE-39265  TABERNERO GRAN TINTO                              BEBIDAS                  113         49.90         5638.70       5638.70       
+EN-53265  ANTICUCHO                                         ENTRADA                  184         12.90         2373.60       2373.60       
+BR-15724  1/4 POLLO ENCAMOTADO                              BRASA                    146         31.50         4599.00       4599.00       
+BR-15950  1/4 POLLO PARRILLERO ORIGINAL ANTICUCHO           BRASA                    63          43.90         2765.70       2765.70       
+ES-31644  CHICHARRON DE POLLO AL PLATO                      ESPECIALES               30          33.90         1017.00       1017.00       
+BE-39851  CASILLERO DEL DIABLO BLANCO                       BEBIDAS                  86          73.90         6355.40       6355.40       
+PA-11871  LOMO A LA PARRILLA                                PARRILLA                 77          54.90         4227.30       4227.30       
+EN-77487  ENSALADA CESARS GRANDE SOLO                       ENSALADAS                88          24.90         2191.20       2191.20       
+PI-15153  PIQUEOS MOLLEJITAS                                PIQUEO                   56          18.90         1058.40       1058.40       
+BE-39896  VINO FINA RESERVA TINTO                           BEBIDAS                  9           128.90        1160.10       1160.10       
+EN-77691  ENSALADA SENSACION MEDIANA CON POLLO              ENSALADAS                32          23.90         764.80        764.80        
+BE-39442  LIMONADA 1 LITRO                                  BEBIDAS                  30          21.90         657.00        657.00        
+SA-55338  SANGUCHE BRASA                                    SANGUCHE                 44          22.90         1007.60       1007.60       
+BR-15365  1/4 POLLO BBQ/HOT ANTICUCHO                       BRASA                    85          44.90         3816.50       3816.50       
+BR-15283  1/4 POLLO PARRILLERO ORIGINAL- ARROCERO           BRASA                    69          33.50         2311.50       2311.50       
+BE-39738  CERVEZA HEINEKEN                                  BEBIDAS                  105         18.90         1984.50       1984.50       
+BE-39431  CERVEZA CUSQUENA                                  BEBIDAS                  140         12.50         1750.00       1750.00       
+EN-77419  ENSALADA DELICIA GRANDE CON POLLO                 ENSALADAS                4           31.90         127.60        127.60        
+BE-39747  COCA COLA 1/2 LITRO                               BEBIDAS                  63          7.00          441.00        441.00        
+AD-90766  ANTICUCHO DE CORAZON                              ADICIONAL                67          25.90         1735.30       867.65        
+EN-77549  ENSALADA COCIDA REGULAR                           ENSALADAS                66          18.90         1247.40       1247.40       
+EN-77606  ENSALADA HONEY GRANDE SOLO                        ENSALADAS                106         24.90         2639.40       2639.40       
+BR-15665  1/2 POLLO PARRILLERO ORIGINAL ENCAMOTADO          BRASA                    84          50.90         4275.60       4275.60       
+AD-53518  PAPAS FRITAS                                      ADICIONAL                161         15.90         2559.90       1279.95       
+EN-77894  ENSALADA SENSACION GRANDE CON POLLO               ENSALADAS                26          32.90         855.40        855.40        
+BE-39584  COCA COLA 1 LITRO                                 BEBIDAS                  164         15.50         2542.00       2542.00       
+PO-11283  2 BOLAS DE HELADO                                 POSTRES                  22          14.90         327.80        327.80        
+AP-73428  TEQUEÑOS                                          APERITIVO                121         19.50         2359.50       2359.50       
+
+
+86297512  VILLEGAS LEIVA FELICITA                           Cercado de Lima          58          1651.40       1551.20       
+63230770  SALAS URBINA MAGDA CARMEN                         San Juan de Lurigancho   57          1727.10       1727.10       
+38986512  DURAND MEZA WALDEMAR EDGARD                       La Molina                16          659.20        659.20        
+51108372  DE LA CUBA JUGO LUCERO DELICIA                    Magdalena del Mar        4           89.40         89.40         
+22303979  FALCON PRECIADO ALEX HENRY                        Villa El Salvador        27          788.90        788.90        
+64262396  URBINA CASTILLO HELI                              Independencia            15          453.50        453.50        
+52650965  URBINA HIJAR RAFAEL                               Chorrillos               29          618.50        603.65        
+56100384  LAU BACA MONICA TERESA                            La Molina                52          1876.20       1876.20       
+65308391  DIAZ REYES WALTER EDGAR                           San Martin de Porres     23          511.30        481.60        
+46466842  SUELDO RUIZ ANTONIO                               Villa Maria del Triunfo  21          663.90        663.90        
+51808448  MEREL SALAZAR ANNIE LOURDES                       Rimac                    42          1396.20       1396.20       
+32352361  ASTETE RIOS CESAR WILVER                          San Martin de Porres     18          602.20        602.20        
+31712526  SUCHERO EPIQUEN EDGAR JAVIER                      El Agustino              24          672.60        672.60        
+82583252  FARFAN FALCON ELIZABETH KARIN                     Santiago de Surco        50          1474.80       1468.95       
+40711531  SEGURA MALCA RONY                                 Ate Vitarte              31          930.30        920.55        
+37769366  PATINO CHUNG BEATRIZ ROSA                         Surquillo                65          2553.30       2553.30       
+76595144  GAVIDIA MENDOZA RONALD JOHNNY                     San Juan de Lurigancho   5           114.50        114.50        
+73518695  ZARATE DEL POZO HUMBERTO ANTONIO                  San Juan de Lurigancho   24          1090.20       1090.20       
+80740735  ANTEZANO SEGURA TERESA DELIA                      Brena                    39          1325.70       1325.70       
+31526241  CALIXTO TOMASICHE MONICA DORIS                    Brena                    10          739.00        739.00        
+49573578  RUIZ GORDILLO CAROLA ERIKA                        El Agustino              34          1274.80       1255.00       
+81334083  CORONADO FIGUEROA JOHAN                           San Borja                25          729.30        714.45        
+78223294  ALAMO PAIRAZAMAN MIGUEL ROBERTO                   Santiago de Surco        29          574.90        495.40        
+65278099  HIJAR PAIRAZAMAN JENNY DELICIA                    Villa Maria del Triunfo  56          2042.20       2032.30       
+92980780  VEGA MUNOZ GONZALO                                Magdalena del Mar        58          1651.40       1551.20       
+67277765  CORTEZ SEGURA CARMELA INES                        Surquillo                23          815.30        805.40        
+59199342  ZAMBRANO MOSCOSO OFELIA MARIA                     Pueblo Libre             157         4166.70       3951.45       
+72937662  ROSEMBERG LAU JULIO HENRRY                        Brena                    118         3583.10       3567.50       
+79133967  GUEVARA MIYAKE MILENA                             Magdalena del Mar        55          1328.50       1328.50       
+41964357  VILLA SEDANO MARTIN JUVENAL                       Rimac                    147         3610.50       3475.35       
+93939698  CHUMPITAZ PALOMARES VIRGINIA                      El Agustino              66          2069.80       1894.05       
+93231760  CHUMPITAZ ALCOCER ANGEL ERICK                     Los Olivos               146         4376.00       4354.20       
+59596317  AYALA VIZCARDO EDGAR MANUEL                       Rimac                    166         5369.20       5363.35       
+14956687  LA HAZA CABRERA ALBERTO DE                        San Luis                 120         2771.30       2708.00       
+22598563  MONTERO MONTERO ANNIE                             Jesus Maria              73          1779.40       1749.70       
+35347567  FIGUEROA COLLADO EVERT                            La Victoria              90          2696.70       2669.10       
+60543714  BARRERA MIRANDA ALEXANDER MARTIN                  San Borja                139         3367.70       3311.50       
+27709566  SUAREZ MUNOZ MADELEINE                            Ate Vitarte              16          586.40        586.40        
+58643376  VILLEGAS LEIVA FELICITA                           Surquillo                73          2277.90       2238.15       
+36934113  SALAS URBINA MAGDA CARMEN                         Los Olivos               116         2949.30       2841.30       
+52313890  DURAND MEZA WALDEMAR EDGARD                       Brena                    100         2881.20       2873.25       
+62287143  DE LA CUBA JUGO LUCERO DELICIA                    Pueblo Libre             32          883.40        863.90        
+77324146  FALCON PRECIADO ALEX HENRY                        Brena                    36          593.00        510.15        
+81539774  URBINA CASTILLO HELI                              Magdalena del Mar        142         3831.50       3797.45       
+45201670  URBINA HIJAR RAFAEL                               Santa Anita              0           0.00          0.00          
+65912822  LAU BACA MONICA TERESA                            Santa Rosa               108         3957.40       3858.00       
+80694546  DIAZ REYES WALTER EDGAR                           La Molina                111         2090.80       1995.85       
+51642949  SUELDO RUIZ ANTONIO                               San Martin de Porres     145         4653.50       4603.85       
+62126128  MEREL SALAZAR ANNIE LOURDES                       Santa Anita              120         3470.80       3423.10       
+34697743  ASTETE RIOS CESAR WILVER                          Santiago de Surco        150         4391.10       4376.25       
+30246960  SUCHERO EPIQUEN EDGAR JAVIER                      Brena                    30          856.80        856.80        
+95656771  FARFAN FALCON ELIZABETH KARIN                     Surquillo                99          3737.50       3706.65       
+51873364  SEGURA MALCA RONY                                 Rimac                    167         4615.00       4579.45       
+49357767  PATINO CHUNG BEATRIZ ROSA                         San Martin de Porres     125         3882.30       3811.05       
+25062013  GAVIDIA MENDOZA RONALD JOHNNY                     San Juan de Lurigancho   96          2949.10       2883.85       
+71422479  ZARATE DEL POZO HUMBERTO ANTONIO                  Villa El Salvador        134         4057.60       4017.25       
+28992638  ANTEZANO SEGURA TERESA DELIA                      Miraflores               30          509.80        509.80        
+92275859  CALIXTO TOMASICHE MONICA DORIS                    El Agustino              91          2715.10       2614.90       
+68114999  RUIZ GORDILLO CAROLA ERIKA                        Comas                    28          678.80        671.00        
+77440060  CORONADO FIGUEROA JOHAN                           Santa Anita              9           156.30        156.30        
+86988155  ALAMO PAIRAZAMAN MIGUEL ROBERTO                   Santa Anita              108         3930.00       3875.55       
+68269451  HIJAR PAIRAZAMAN JENNY DELICIA                    La Molina                104         3182.60       3157.15       
+75100362  VEGA MUNOZ GONZALO                                Pueblo Libre             87          2503.90       2444.35       
+13731806  CORTEZ SEGURA CARMELA INES                        Rimac                    0           0.00          0.00          
+85395219  MOYA ARANDA JOHNNY                                San Juan de Lurigancho   54          1977.20       1945.40       
+54815159  FLORIAN MORALES YDALI                             Pueblo Libre             52          1818.80       1767.00       
+45914393  MEJIA HUAYANAY CHRISTIAN ALONSO                   San Borja                121         3099.20       3049.95       
+15290194  BARRIOS TOMASICHE CARLOS ALBERTO                  Villa El Salvador        58          1735.20       1735.20       
+81647285  VILLEGAS PALOMINO DORIS FREYSA                    San Juan de Lurigancho   133         3974.50       3859.30       
+36471787  ACUNA YINO ROCIO YOLANDA                          Pueblo Libre             159         5106.30       5037.20       
+91187814  MALDONADO FLORIAN JOHANA                          Santa Anita              82          2352.80       2327.30       
+99891737  RETAMOSO BARRERA OSCAR                            Cercado de Lima          0           0.00          0.00          
+17299012  GONZALES ARIAS HENRY                              San Juan de Lurigancho   44          883.90        864.40        
+12484697  HENRIQUEZ PORTUGAL ALEX                           Cercado de Lima          105         2916.30       2890.05       
+43704548  VALVERDE BERROCAL RONY GONZALO                    Magdalena del Mar        96          3071.60       3007.25       
+57182371  VILCARA CORREA VICTOR                             Villa El Salvador        194         6237.40       6168.40       
+86836066  IBEROS VALDERRAMA RAFAEL                          Jesus Maria              136         3807.20       3664.10       
+93282118  SUAREZ BOLANOS RAFAEL                             Miraflores               0           0.00          0.00          
+34571095  CALDERON ORTEGA GUILLERMO                         Santa Rosa               91          3285.90       3280.05       
+37282858  HIJAR YEP WILLIAMS CHRISTIAN                      San Miguel               16          217.00        197.20        
+53420926  MARTEL ASMAD BRUNO ROBERTO                        El Agustino              134         4631.20       4501.85       
+22679759  GORDILLO YINO YVONNE ROSARIO                      Los Olivos               77          2212.50       2147.75       
+61061535  DE LA CUBA ALBERTO PAIRAZAMAN                     Pueblo Libre             102         3520.80       3485.25       
+59561864  CHAVEZ PRADO SILVANA                              Santiago de Surco        179         5208.10       5059.30       
+94683380  ASMAD ACUNA ANNIE OFELIA                          Independencia            75          1971.20       1837.45       
+32538825  YOSHINARI RIVERA PAUL                             Pueblo Libre             166         5871.80       5782.40       
+93961840  CRUZ FUENTES JOHANA YDALI                         Villa Maria del Triunfo  99          2588.30       2500.85       
+66091742  AMEZQUITA EPIQUEN EVERT ROBERTO                   Comas                    102         2358.90       2303.40       
+31284904  CORREA VIZCARDO MIGUEL                            Brena                    90          2943.60       2766.40       
+72330000  MEDINA VELASQUEZ MILENA JENNY                     San Martin de Porres     135         3622.60       3483.55       
+54149342  MIYAKE MEREL MADELEINE YLIANA                     Cercado de Lima          41          1314.10       1314.10       
+72973662  BENAVENTE AYALA VIRGINIA IRMA                     Independencia            66          1821.90       1821.90       
+79100967  LANDA PISCOYA CHRISTIAN                           San Martin de Porres     25          1067.50       1067.50       
+51465986  CAMACHO AGUERO ELIA ROSA                          La Molina                6           89.00         61.75         
+35852072  JUSTINO CRUZ WILLIAMS                             Ate Vitarte              163         4528.40       4445.15       
+35606314  PORTUGAL BENAVENTE JOHANA GLORIA                  Chorrillos               159         5461.20       5433.30       
+20371464  CARO POLO SANDRO                                  San Juan de Lurigancho   34          773.80        734.20        
+66039166  LAURA WONG MELVIN HENRRY                          Rimac                    39          955.90        908.20        
+63640178  CABRERA CANALES GUILLERMO EDRIC                   Magdalena del Mar        45          2099.70       2099.70       
+99774549  HENRIQUEZ ESPINO BEATRIZ                          San Borja                69          1945.40       1945.40       
+90367684  CORONEL CHUMPITAZ HELI                            Villa Maria del Triunfo  129         2972.50       2883.25       

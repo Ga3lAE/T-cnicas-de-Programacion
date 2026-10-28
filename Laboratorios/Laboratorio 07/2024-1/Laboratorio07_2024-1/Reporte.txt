@@ -1,0 +1,35 @@
+                                        INSITUCION EDUCATIA VENUS S.A.
+                             PROMEDIO PONDERADO DE LOS ALUMNOS MATRICULADOS
+                                                CICLO 2024-1
+                                         FACULTAD DE DERECHO
+                                                 Y
+                                 ESTUDIOS GENERALES CIENCIAS
+======================================================================================================================================================
+ALUMNO                                                      No. CURSOS  SUMA          CREDITOS    PROMEDIO      FACU           
+======================================================================================================================================================
+20235440  PORTUGAL BENAVENTE JOHANA GLORIA                  16          980.50        70.50       13.91         EEGGCC         
+20205864  MALDONADO FLORIAN JOHANA SILVIA                   10          646.50        46.50       13.90         EEGGCC         
+20197374  VILCARA CORREA VICTOR JUSTINO                     7           430.25        32.50       13.24         EEGGCC         
+20219990  ACUNA YINO ROCIO YOLANDA                          9           544.00        41.25       13.19         EEGGCC         
+20198608  GORDILLO YINO YVONNE ROSARIO                      15          814.00        62.00       13.13         EEGGCC         
+20195340  CERNA DURAND MARTIN PEDRO                         14          754.75        62.50       12.08         EEGGCC         
+20213075  FLORIAN MORALES YDALI ROCIO                       16          851.50        71.00       11.99         EEGGCC         
+20194050  CORRALES TSUKAZAN IRMA LOURDES                    18          976.00        82.00       11.90         EEGGCC         
+20197557  CARO POLO SANDRO                                  13          638.75        57.25       11.16         EEGGCC         
+20195764  CALIXTO TOMASICHE MONICA DORIS                    14          585.25        62.00       9.44          EEGGCC         
+20193984  PAREDES PATINO CHRISTIAN RAUL FELIPE              10          393.25        44.75       8.79          EEGGCC         
+20198434  CHAVEZ PRADO SILVANA MARIA                        16          1017.75       66.00       15.42         FDD            
+20193891  CAMACHO AGUERO ELIA ROSA                          13          754.25        52.75       14.30         FDD            
+20195979  MEJIA DE LA HAZA FRANCISCO EDGAR                  15          1053.25       74.50       14.14         FDD            
+20196536  BENAVENTE AYALA VIRGINIA IRMA                     10          555.50        41.25       13.47         FDD            
+20196245  VEGA MUNOZ GONZALO TEOBALDO                       17          1024.50       77.75       13.18         FDD            
+20198922  PAIRAZAMAN ALAMO MOISES MIGUEL                    18          1073.25       81.50       13.17         FDD            
+20193490  CORONADO FIGUEROA JOHAN JOSE                      16          846.50        69.75       12.14         FDD            
+20197155  JUSTINO CRUZ WILLIAMS PAUL                        9           493.75        41.25       11.97         FDD            
+20231938  MARTEL ASMAD BRUNO ROBERTO                        18          916.25        79.00       11.60         FDD            
+20212697  RETAMOSO BARRERA OSCAR JOSE                       14          657.25        57.00       11.53         FDD            
+20193012  CUBA PAIRAZAMAN ALBERTO RAUL                      14          669.25        59.50       11.25         FDD            
+20198069  AMEZQUITA EPIQUEN EVERT ROBERTO                   14          652.50        58.50       11.15         FDD            
+20224165  MIYAKE MEREL MADELEINE YLIANA                     14          716.00        64.75       11.06         FDD            
+======================================================================================================================================================
+ALUMNO CON MAYOR NUMERO DE CREDITOS MATRICULADOS: CORRALES TSUKAZAN IRMA LOURDES (20194050) con 82.00 CREDITOS

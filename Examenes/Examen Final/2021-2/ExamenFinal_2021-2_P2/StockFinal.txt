@@ -1,0 +1,29 @@
+                                                            CONFIRMACION DE PRODUCTOS
+CODIGO    DESCRIPCION                                       STOCK          PRECIO         
+WM3524    EMPANIZADOR CONTADINA TRADICIONAL 283GR           10             16.50          
+RX6721    PALOMITAS POFETS FLAMIN HOT 28GR                  7              6.88           
+BD6402    YOGHURT LALA LIGHT 240GR                          11             7.04           
+EH9131    YOGHURT FRESA CON GRANOLA CHELSY 240GR            4              6.72           
+DE1583    VAINILLA MOLINA 500ML                             1              19.26          
+TP2703    PAPAYA                                            2              20.99          
+SB6549    AGUACATE REGIONAL KG.1.000 GR                     4              26.65          
+GA4616    FLAN LALA SABOR VAINILLA 100GR                    33             5.88           
+FU6142    YOGHURT BIOBALANCE NUEZ Y FRU.SECOS 250G          3              8.83           
+FX4528    SOPA MARUCHAN CAMARON 71GR                        3              7.68           
+GZ4562    LECHE LALA SEMI DESLACTOSADA 1LT                  7              16.98          
+IR1534    MEDIA CREMA NESTLE 1LT                            4              40.80          
+EX8123    SALSA CASERA ENEDELIA 250GR                       2              14.46          
+YX2521    BEBIDA DE SOYA ADES GUANABANA 946ML               3              18.07          
+EZ1377    JUGO VALLE FRUT CITRUS 12 250ML                   13             50.49          
+DL9148    MAIZ POZOLERO EXTRA 1KGR                          5              23.28          
+IS1301    CUITLACOCHE MONTEBLANCO 215GR                     39             32.28          
+KD7040    SANDWICH COMBINADA 3 FLORES 150GR                 1              8.23           
+TH8501    SABRITAS CASERAS JALAPENO 42GR                    36             9.66           
+US9499    TAKIS SALSA BRAVA 62GR                            5              7.65           
+MO8561    SALSA HABANERA ROJA GUACAMAYA 150GR               1              10.25          
+IY551     NESCAFE VAINILLA FRESCA 25GR                      3              6.88           
+KS5385    FRIJOL AMARILLO KG                                2              39.82          
+RE3123    YOGHURT FRESA NESTLE 1KG                          1              23.27          
+AL5576    GALLETAS MARIAS CUETARA 160GR                     4              6.10           
+XT2381    BEBIDA NARANJA BEBERE 470ML                       1              6.72           
+AG5216    ALUBIAS ANTIQUA 540GR                             5              17.85          

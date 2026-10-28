@@ -1,0 +1,36 @@
+BANCO ABC: ESTADO DE CUENTAS NO HABILES
+======================================================================================================================================================
+CUENTA          TITULAR                                        SALDO INICIAL          SALDO FINAL
+======================================================================================================================================================
+18063291          Falcon/Cuba/Alonso Jesus                             5728.87            48684.77
+81196295          Baca/Canales/Martha Lourdes                             0.00            25917.14
+85544163          Saavedra/Gonzales/Wilmer                             6010.47            53799.46
+49751038          Aranda/Torrealba/Jenny Ines                          5977.20             8099.27
+31935151          Diaz/Tang/Enrique                                   -5959.01            65300.14
+13940253          Figueroa/Medina/Madeleine                            6427.73            37131.32
+26314028          Vilca/Contreras/Surami Yvonne                       -2245.36            15201.82
+95387769          Barrios/Sanchez/Henrry Emilio                        6293.68            13137.67
+68852702          Zambrano/Moscoso/Ofelia Maria                      -17600.35             9007.46
+97730632          Pinto/Rojas/Juvenal Francisco Emilio                 5576.19             8970.46
+93237506          Espinoza/Chang/Shirley                              17494.70            39269.33
+69804565          Serrano/Chavarri/Roberto                             7086.39            17957.25
+41547186          Retamoso/Vargas/Julian Edgard                        6058.89            25470.85
+64809651          Minaya/Berrocal/Heli                                 6380.16              286.82
+30719323          Vasquez/Paz/Alex Martin                            -44834.62            35325.85
+97779161          Delgado/Florian/Guillermo                           -6466.38            11824.27
+42038626          Suarez/Adams/Eloisa Virginia                         2157.92            66658.47
+72686783          Rivera/Bolanos/Martha Victoria                      -2249.53            45824.43
+89909284          Florian/Cuba/Christian                             -17640.91            30524.07
+86310821          Carbajal/Salas/Magda Zkenia                        -44755.77            48488.73
+13541419          Saenz/Guevara/Rosario                                7342.73            26017.35
+14291541          Ruiz/Zevallos/Walter Rony                          -38112.57            28044.03
+46689628          Estrada/Fuentes/Erika                                6843.51            18706.03
+82364171          Zavaleta/Zamora/Giovana Rene                         5716.36            12273.87
+18829448          Arca/Amezquita/Edric Ronald                             0.00             4914.39
+16583692          Maeireizo/Vasquez/Lourdes Silvia                    -7182.11            45650.06
+19542431          Montero/Valderrama/Estefania Monica                  6395.60            45503.19
+81036704          Arroyo/Zarate/Eloy                                   5590.55            40611.82
+93290876          Amezquita/Epiquen/Evert Roberto                     16333.94            17465.13
+91471566          Gamarra/Ortega/Cesar Jose                            5547.10            18558.46
+18454019          Zimic/Paredes/Shirley                              -36614.36            38516.90
+11199943          Mejia/Haza/Francisco Edgar                          -2109.60            32969.33

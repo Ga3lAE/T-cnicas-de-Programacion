@@ -1,0 +1,84 @@
+                                           INSTITUCION EDUCATIVA VENUS
+                                      DETALLE DE PAGOS REALIZADO POR CICLOS
+                                                       2022-2
+======================================================================================================================================================
+ALUMNO                                                         No. CURSOS    CREDITOS        ESCALA    MONTO PAGADO    
+------------------------------------------------------------------------------------------------------------------------------------------------------
+20202031  -  Aquino Aquino Valentina Rocio                           1           4.00            B      1175.24        
+20226271  -  Velasquez Velasquez Edgard Henry                        2           7.25            C      2625.15        
+20209968  -  Prado Prado Carlos Julian                               1           3.75            D      1634.93        
+20208940  -  Barrios Barrios Carlos Alberto                          2           9.50            B      2791.19        
+20197374  -  Vilcara Vilcara Victor                                  5          19.25            D      8392.61        
+20231152  -  Hijar Hijar Jenny Delicia                               4          17.00            E      8572.59        
+20218376  -  Landa Landa Christian                                   2           7.00            A      1633.17        
+20231938  -  Martel Martel Bruno Roberto                             2           7.00            E      3529.89        
+20211892  -  Gonzales Gonzales Henry                                 1           4.75            B      1395.60        
+20193373  -  Vasquez Vasquez Alex Martin                             5          18.75            C      6789.19        
+20216619  -  Iberos Iberos Rafael                                    1           4.75            D      2070.91        
+20238549  -  Justino Justino Ericka Victoria                         2           8.50            A      1983.13        
+20222575  -  Yoshinari Yoshinari Paul                                5          19.25            B      5655.84        
+20215248  -  Mejia Mejia Christian Alonso                            3           9.75            A      2274.77        
+20213075  -  Florian Florian Ydali                                   4          16.00            E      8068.32        
+20224165  -  Miyake Miyake Madeleine Yliana                          5          20.25            A      4724.53        
+20219990  -  Acuna Acuna Rocio Yolanda                               4          18.75            A      4374.56        
+20195764  -  Calixto Calixto Monica Doris                            4          16.00            A      3732.96        
+20235440  -  Portugal Portugal Johana Gloria                         4          11.25            D      4904.78        
+20218255  -  Mejia Mejia Blanca Milagros                             3          12.25            B      3599.17        
+20192298  -  Correa Correa Miguel                                    2           7.00            C      2534.63        
+20217328  -  Alamo Alamo Miguel Roberto                              2           8.50            A      1983.13        
+20202687  -  Morales Morales Ines Martha                             3          10.00            A      2333.10        
+20205830  -  Fernandez Fernandez Elizabeth Elizabeth                 3          12.25            A      2858.05        
+20193984  -  Paredes Paredes Christian                               1           4.25            A       991.57        
+20195979  -  Mejia DeLaHaza Francisco Edgar                          5          19.25            E      9707.20        
+20193573  -  Asmad Asmad Annie Ofelia                                5          19.75            A      4607.87        
+20196536  -  Benavente Benavente Virginia Irma                       2           7.00            B      2056.67        
+20219566  -  Medina Medina Milena Jenny                              4          17.50            C      6336.57        
+20202756  -  Prado Prado Edgar Richard                               4          15.00            D      6539.70        
+20239652  -  Inga Inga Cesar Adolfo                                  2           8.50            E      4286.30        
+20198069  -  Amezquita Amezquita Evert Roberto                       3           8.50            E      4286.30        
+20238246  -  Ruiz Ruiz Carola Erika                                  1           3.25            C      1176.79        
+20194050  -  Corrales Corrales Irma Lourdes                          3          10.25            A      2391.43        
+20195340  -  Cerna Cerna Martin                                      1           3.75            D      1634.93        
+20193012  -  DeLaCuba Pairazaman Alberto                             2           7.25            C      2625.15        
+20196245  -  Vega Vega Gonzalo                                       5          20.50            D      8937.59        
+20193769  -  Norabuena Norabuena Cinthia                             2           6.00            B      1762.86        
+20221316  -  Raffo Raffo Adria Gloria                                1           2.25            A       524.95        
+20237059  -  Calderon Calderon Guillermo                             5          21.75            D      9482.57        
+20233583  -  Palomares Palomares Henrry Humberto                     5          20.25            B      5949.65        
+20195244  -  Cortez Cortez Carmela Ines                              4          16.75            A      3907.94        
+20197155  -  Justino Justino Williams                                3          12.25            A      2858.05        
+20197480  -  Cerna Cerna Jose Rolando                                4          11.00            A      2566.41        
+20205844  -  Villa Villa Tatiana Nancy                               3           9.50            A      2216.45        
+20233816  -  Valverde Valverde Rony Gonzalo                          5          17.25            E      8698.66        
+20221873  -  Henriquez Henriquez Alex                                3          10.75            B      3158.46        
+20197378  -  Villegas Villegas Doris Freysa                          4          15.50            B      4554.06        
+20205864  -  Maldonado Maldonado Johana                              4          15.00            D      6539.70        
+20207053  -  Lozada Lozada Martha                                    2           5.50            C      1991.49        
+20198845  -  Landeo Landeo Adolfo                                    5          20.75            E     10463.60        
+20216298  -  Maldonado Maldonado Silvana                             3          11.25            E      5673.04        
+20227724  -  Coronel Coronel Heli                                    5          22.25            D      9700.56        
+20227341  -  Diaz Diaz Magali Silvana                                3          12.25            D      5340.76        
+20226455  -  Henriquez Henriquez Beatriz                             5          21.75            B      6390.37        
+20198237  -  Castro Castro Rolando                                   5          17.25            C      6246.05        
+20236453  -  Arca Arca Edric Ronald                                  3          10.75            B      3158.46        
+20198922  -  Pairazaman Pairazaman Moises Miguel                     5          21.25            E     10715.74        
+20229272  -  Cruz Cruz Johana Ydali                                  5          18.50            E      9329.00        
+20212697  -  Retamoso Retamoso Oscar                                 4          14.50            C      5250.30        
+20191754  -  Moya Moya Johnny                                        5          19.25            D      8392.61        
+20236102  -  Salas Salas Daniel                                      5          18.25            B      5362.03        
+20224223  -  Pasquel Pasquel Surami Janet                            1           4.25            E      2143.15        
+20236905  -  Laura Laura Melvin Henrry                               4          18.25            A      4257.91        
+20193490  -  Coronado Coronado Johan                                 1           4.75            C      1719.93        
+20197557  -  Caro Caro Sandro                                        5          18.50            D      8065.63        
+20198608  -  Gordillo Gordillo Yvonne Rosario                        1           4.25            B      1248.69        
+20229400  -  Delgado Delgado Guillermo Alfonso                       1           3.25            A       758.26        
+20218679  -  Auris Auris Javier Daniel                               1           4.25            D      1852.91        
+20208971  -  Suarez Suarez Rafael                                    3          14.25            C      5159.78        
+20207741  -  Cabrera Cabrera Guillermo Edric                         5          21.00            E     10589.67        
+20193891  -  Camacho Camacho Elia Rosa                               1           2.25            D       980.96        
+20208175  -  Hijar Hijar Williams Christian                          4          17.00            A      3966.27        
+20225162  -  Piscoya Piscoya Cesar Bruno                             2           8.75            C      3168.29        
+20198434  -  Chavez Chavez Silvana                                   3          13.25            D      5776.74        
+------------------------------------------------------------------------------------------------------------------------------------------------------
+MONTO TOTAL PAGADO                                                                                     335137.43
+======================================================================================================================================================

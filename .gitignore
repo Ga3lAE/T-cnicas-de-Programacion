@@ -1,0 +1,37 @@
+# Ignorar todos los archivos por defecto
+*
+
+# Permitir recorrer todas las carpetas
+!*/
+
+# Permitir enunciados y documentos PDF
+!*.pdf
+!*.PDF
+
+# Permitir únicamente código fuente C/C++
+!*.cpp
+!*.c
+!*.h
+!*.hpp
+
+# Permitir archivos de datos (ingesta y reportes)
+!*.txt
+!*.TXT
+!*.csv
+!*.CSV
+
+# Permitir archivos del repositorio
+!.gitignore
+!README.md
+
+# Excluir carpetas de compilación y configuración de IDEs (evita subir archivos internos de NetBeans)
+build/
+dist/
+nbproject/
+cmake-build-*/
+.vscode/
+.idea/
+
+# Excluir archivos temporales y del sistema operativo
+.DS_Store
+Thumbs.db

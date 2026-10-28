@@ -1,0 +1,22 @@
+                                                          VERIFICAC LEXICON
+======================================================================================================================================================
+PALABRA        POLARIDAD
+======================================================================================================================================================
+desatento          -1
+cruda              -3
+decepcionante      -3
+terrible           -3
+fantastica          3
+satisfecho          1
+atento              1
+excelente           3
+deliciosa           3
+increible           3
+sucio              -2
+olia               -2
+espantosa          -3
+recomiendo          2
+frios              -2
+tarde              -1
+horrible           -3
+rapido              1

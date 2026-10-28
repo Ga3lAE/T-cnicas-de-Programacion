@@ -1,0 +1,58 @@
+DNI       NOMBRE                                                      MONTO COMPRADO      DESCUENTO FUTURO    
+54393647  REYES TANG EDWARD                                              719.12                10.00
+67066631  ARCA AMEZQUITA EDRIC RONALD                                    763.04                10.00
+32231860  CERNA HIJAR JOSE ROLANDO                                       362.69                10.00
+14500753  DELGADO GONZALES GUILLERMO ALFONSO                            1713.71                10.00
+26916299  CHUNG LEE ALVARO                                                 0.00                 0.00
+87804471  DIAZ ANTEZANO MAGALI SILVANA                                  1563.47                10.00
+81462164  FERNANDEZ ORTEGA ELIZABETH ELIZABETH                          1431.90                10.00
+37500242  PINTO CALIXTO SHIRLEY                                            0.00                 0.00
+45834351  SANTISTEBAN MEZA ROSA                                          756.20                10.00
+35030611  CABRERA LUNA SHIRLEY ISABEL                                    552.74                10.00
+81082011  SHIRAKAWA ORTEGA ANGEL                                        1585.46                10.00
+92240876  MEJIA DIAZ BLANCA MILAGROS                                    1988.85                10.00
+45181396  CERNA DURAND MARTIN                                            937.92                10.00
+45002711  LANDEO SUELDO ADOLFO                                           845.81                10.00
+96056368  RAFFO CHUNG ADRIA GLORIA                                       463.01                10.00
+38724322  INGA FLORES CESAR ADOLFO                                       781.38                10.00
+60740809  LOZADA YINO MARTHA                                            1061.53                10.00
+49516360  MENDOZA EGUSQUIZA ROSARIO                                     1372.47                10.00
+34460612  MORALES VALVERDE INES MARTHA                                  1533.70                10.00
+11750801  RAFFO ARIAS SURAMI ANNIE                                      2066.09                10.00
+85870289  PAREDES PATINO CHRISTIAN                                       500.89                10.00
+20449598  VELASQUEZ HUAYANAY EDGARD HENRY                                505.50                10.00
+72832218  VEGA GARCIA JANET REBECA                                      1309.79                10.00
+66747161  VASQUEZ PAZ ALEX MARTIN                                        987.23                10.00
+88080249  CORONEL CHUMPITAZ HELI                                         942.80                10.00
+61212473  FORZANI CARO ALONSO                                            295.86                10.00
+21344013  AQUINO TORO VALENTINA ROCIO                                   2378.47                10.00
+76693511  LAURA WONG MELVIN HENRRY                                       750.14                10.00
+79743481  SALAS AGUERO DANIEL                                            336.76                10.00
+61039260  CERNA PAIRAZAMAN FIORELLA MARGOT                                 0.00                 0.00
+14142586  PISCOYA BRAVO CESAR BRUNO                                        0.00                 0.00
+36699613  MEJIA DE LA HAZA FRANCISCO EDGAR                               485.25                10.00
+14268463  DIAZ CORREA IRMA VIRGINIA                                     2816.47                10.00
+33958767  PEREZ FARFAN RICHARD SANDRO                                    880.73                10.00
+86898639  PASQUEL QUIO SURAMI JANET                                      853.25                10.00
+20610190  AURIS ZIMIC JAVIER DANIEL                                      220.33                10.00
+65071478  ARROYO GORDILLO MARIA HELI                                    1808.52                10.00
+63602514  SHIRAKAWA MIRANDA MADELEINE                                    607.81                10.00
+51235238  PRADO FALCON EDGAR RICHARD                                    1026.45                10.00
+37751890  ROMERO PALOMARES GLORIA TATIANA                               2496.88                10.00
+46582367  JUSTINO FORZANI ERICKA VICTORIA                                492.64                10.00
+27109544  HENRIQUEZ ESPINO BEATRIZ                                      1120.25                10.00
+17750908  CHUMPITAZ IBEROS RONAL                                        1305.08                10.00
+66152145  HERNANDEZ BARRIOS EMILIO                                         0.00                 0.00
+42302422  MALDONADO RAMIREZ SILVANA                                     2090.97                10.00
+37328103  PALOMARES VERA HENRRY HUMBERTO                                1039.49                10.00
+48053960  CORRALES TSUKAZAN IRMA LOURDES                                 571.49                10.00
+83265244  WONG MARTEL MADELEINE                                         1417.04                10.00
+50860318  SALAZAR CORRALES LORENA IRMA                                   322.91                10.00
+87570336  PAIRAZAMAN ALAMO MOISES MIGUEL                                   0.00                 0.00
+47659552  PRADO VERGEL CARLOS JULIAN                                    1801.82                10.00
+57431952  CASTRO SUAREZ ROLANDO                                         2432.29                10.00
+58717040  CABRERA CANALES GUILLERMO EDRIC                                505.09                10.00
+33583840  VILLA YALLICO TATIANA NANCY                                   1180.52                10.00
+15129661  VALVERDE FLORES IRMA YDALI                                    1025.41                10.00
+65830353  CARO POLO SANDRO                                              1821.75                10.00
+69200503  NORABUENA PRECIADO CINTHIA                                    1815.14                10.00

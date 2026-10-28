@@ -1,0 +1,51 @@
+BANCO ABC: ESTADO DE CUENTAS HABILES
+======================================================================================================================================================
+CUENTA          TITULAR                                        SALDO INICIAL          SALDO FINAL
+======================================================================================================================================================
+56916928          Zuniga/Rivero/Nicolas                                5683.23            16378.82
+80061859          Prado/Laura/Richard Henrry Alonso                   -6546.20             8416.58
+95034958          Figueroa/Chavez/Fernando                            17945.82             1632.80
+16567290          Sueldo/Epiquen/Henrry Martin                        -5893.29            22422.25
+15226739          Fernandez/Epiquen/Adria                              6068.81             8123.97
+45351964          Quispe/Berrocal/Victoria Marina Blanca               7093.91            27781.56
+68367518          Zavaleta/Quio/Melvin Edgar                           6621.65            33957.52
+66466160          Martinez/Aquino/Yvonne                               6116.76               45.69
+99243097          Ortiz/Durand/Raul                                   37773.95            40658.51
+87343838          Miranda/Rodriguez/Javier                            15576.72            42735.93
+76816321          Carbajal/Mendoza/Julio                              36844.61            80116.51
+25907410          Toro/Wong/Amaru                                     15677.73            68561.45
+83370227          Gavidia/Mendoza/Ronald Johnny                       -6646.64              262.31
+59096628          Pasquel/Quio/Surami Janet Cinthia                   38287.54            16883.18
+45669280          Avila/Quiroga/Edric                                 16623.28            17048.42
+47478149          Loyola/Sinche/Javier Julian                         -7215.79             2045.89
+50884616          Iparraguirre/Miranda/Rene Fanny                      6801.90            17169.25
+82380551          Prado/Espinoza/Milagros                             16961.15            21189.90
+29802998          Rodriguez/Moreno/Blanca Ofelia                     -15281.92            18634.77
+13570540          Valverde/Maeireizo/Melvin Jair                      -6646.39            11881.44
+85329880          Preciado/Cortez/Marina                               6209.01            60510.15
+56203179          Vega/Saenz/Alexander Richard                         7476.88            38215.04
+77649386          Pairazaman/Raffo/Tatiana Delicia                     2031.32            16816.55
+89580343          Lozada/Arguedas/Felicita Valentina                  36535.31            44619.63
+71847289          Paz/Zevallos/Walter Manuel Erick                    16902.15            42087.60
+88777135          Hijar/Lam/Martin                                     5592.69             5245.91
+58128178          Yoshinari/Arroyo/Diana Maritza                      36992.95            39958.52
+99358244          Vera/Forzani/Carmen Rene                            16510.27            13796.84
+69092262          Tokeshi/Guevara/Jaime                                6513.19            39480.55
+67787438          Yep/Valderrama/Rony                                 44941.79            27232.63
+36086508          Sueldo/Baca/Silvia Virginia                             0.00            14358.95
+19501071          Wong/Maeireizo/Beatriz                              -6145.35            14670.23
+44606690          Solis/Chung/Rolando                                 36196.66            29885.50
+18748123          Forzani/Caro/Alonso                                  7227.80            38275.43
+39948656          Ayala/Vizcardo/Edgar Manuel                         17272.68            53130.70
+49861153          Mejia/Zamora/Roberto Jaime                           6129.64            29272.73
+24512683          Zevallos/Flores/Raul Gustavo                       -15483.83            21112.33
+73811105          Asmad/Acuna/Annie Ofelia                            15215.99            38121.47
+15649688          Leiva/Zevallos/Alfonso Rafael                           0.00            32575.05
+16987059          Ortiz/Huayanay/Ronald                                6582.55             9154.51
+27702945          Adams/Mori/Humberto Henry                           44873.33            60605.37
+23229804          Laura/Wong/Melvin Henrry                            16576.69             2077.63
+38391946          Medina/Merel/Magali                                  6739.84             9792.41
+50495188          Baca/Camacho/Milagros Natalia Isabel                 7442.46            45197.07
+82961979          Patino/Chung/Beatriz Rosa                           44783.86            62699.95
+19390855          Zuniga/Yino/Guillermo Arturo                         2005.29            13475.37
+49332000          Zuniga/Vilcara/Zkenia Eveling                        2176.33             5943.30

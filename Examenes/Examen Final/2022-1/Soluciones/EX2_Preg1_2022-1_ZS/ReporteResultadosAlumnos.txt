@@ -1,0 +1,232 @@
+                                                  INSTITUCION EDUCATIVA LIMA
+                                             RESULTADOS DE ALUMNOS MATRICULADOS
+======================================================================================================================================================
+       1.  Alumno: 20211011 - Portugal Raffo Aleexander                    NO PASA A FACULTAD
+           NOTAS EN EL CICLO
+              CURSO                                           CREDITOS    NOTA
+              CIV123 - Instalaciones de Edificaciones           3.75        15
+              MEC101 - Corrosion                                5.00        13
+              IEE309 - Circuitos Electricos 2                   5.00        11
+------------------------------------------------------------------------------------------------------------------------------------------------------
+RESULTADOS AL FINAL DEL CICLO
+Creditos aprobados en el ciclo:       13.75            Promedio ponderado cursos aprobados:    12.82
+Creditos desaprobados en el ciclo:     0.00            Promedio ponderado cursos desaprobados:   nan
+Promedio ponderado en el ciclo:                12.82
+Creditos aprobados acumulados:                 26.25
+Creditos desaprobados acumulados:               0.00
+======================================================================================================================================================
+       2.  Alumno: 20191956 - Yallico Paredes Lourdes Carmela              PASA A FACULTAD
+           NOTAS EN EL CICLO
+              CURSO                                           CREDITOS    NOTA
+              MEC101 - Corrosion                                5.00        14
+              IEE372 - Microelectronica                         4.50        12
+              INF123 - Sistemas Operativos                      3.50        10
+              INF203 - Sistemas de Informacion 1                4.25        11
+------------------------------------------------------------------------------------------------------------------------------------------------------
+RESULTADOS AL FINAL DEL CICLO
+Creditos aprobados en el ciclo:       13.75            Promedio ponderado cursos aprobados:    12.42
+Creditos desaprobados en el ciclo:     3.50            Promedio ponderado cursos desaprobados: 10.00
+Promedio ponderado en el ciclo:                11.93
+Creditos aprobados acumulados:                 89.25
+Creditos desaprobados acumulados:               8.00
+======================================================================================================================================================
+       3.  Alumno: 20184087 - Zegarra Casanova Estefania                   PASA A FACULTAD
+           NOTAS EN EL CICLO
+              CURSO                                           CREDITOS    NOTA
+              CIV123 - Instalaciones de Edificaciones           3.75        18
+              IEE309 - Circuitos Electricos 2                   5.00        14
+              QUI412 - Quimica Inorganica 1                     4.00        12
+              CIV717 - Puentes                                  3.00        13
+              CIV291 - Proceso de Construccion 1                3.50        11
+------------------------------------------------------------------------------------------------------------------------------------------------------
+RESULTADOS AL FINAL DEL CICLO
+Creditos aprobados en el ciclo:       19.25            Promedio ponderado cursos aprobados:    13.66
+Creditos desaprobados en el ciclo:     0.00            Promedio ponderado cursos desaprobados:   nan
+Promedio ponderado en el ciclo:                13.66
+Creditos aprobados acumulados:                 74.75
+Creditos desaprobados acumulados:               0.00
+======================================================================================================================================================
+       4.  Alumno: 20216707 - Chang Segura Angel                           NO PASA A FACULTAD
+           NOTAS EN EL CICLO
+              CURSO                                           CREDITOS    NOTA
+              IEE372 - Microelectronica                         4.50        10
+              QUI412 - Quimica Inorganica 1                     4.00         8
+              IND111 - Gestion de Recursos Humanos              3.25        14
+------------------------------------------------------------------------------------------------------------------------------------------------------
+RESULTADOS AL FINAL DEL CICLO
+Creditos aprobados en el ciclo:        3.25            Promedio ponderado cursos aprobados:    14.00
+Creditos desaprobados en el ciclo:     8.50            Promedio ponderado cursos desaprobados:  9.06
+Promedio ponderado en el ciclo:                10.43
+Creditos aprobados acumulados:                 48.75
+Creditos desaprobados acumulados:              19.00
+======================================================================================================================================================
+       5.  Alumno: 20206035 - Ortiz Epiquen Henry Israel                   PASA A FACULTAD
+           NOTAS EN EL CICLO
+              CURSO                                           CREDITOS    NOTA
+              IEE372 - Microelectronica                         4.50        14
+              IEE309 - Circuitos Electricos 2                   5.00        13
+              CIV717 - Puentes                                  3.00        11
+              CIV291 - Proceso de Construccion 1                3.50        10
+              IND111 - Gestion de Recursos Humanos              3.25        12
+------------------------------------------------------------------------------------------------------------------------------------------------------
+RESULTADOS AL FINAL DEL CICLO
+Creditos aprobados en el ciclo:       15.75            Promedio ponderado cursos aprobados:    12.70
+Creditos desaprobados en el ciclo:     3.50            Promedio ponderado cursos desaprobados: 10.00
+Promedio ponderado en el ciclo:                12.21
+Creditos aprobados acumulados:                 94.25
+Creditos desaprobados acumulados:              14.00
+======================================================================================================================================================
+       6.  Alumno: 20193794 - Garcia Yino Americo Waldemar                 NO PASA A FACULTAD
+           NOTAS EN EL CICLO
+              CURSO                                           CREDITOS    NOTA
+              CIV123 - Instalaciones de Edificaciones           3.75        11
+              MEC101 - Corrosion                                5.00        12
+              QUI412 - Quimica Inorganica 1                     4.00         9
+              INF123 - Sistemas Operativos                      3.50        11
+              INF203 - Sistemas de Informacion 1                4.25        12
+              IND111 - Gestion de Recursos Humanos              3.25        15
+------------------------------------------------------------------------------------------------------------------------------------------------------
+RESULTADOS AL FINAL DEL CICLO
+Creditos aprobados en el ciclo:       19.75            Promedio ponderado cursos aprobados:    12.13
+Creditos desaprobados en el ciclo:     4.00            Promedio ponderado cursos desaprobados:  9.00
+Promedio ponderado en el ciclo:                11.60
+Creditos aprobados acumulados:                 36.25
+Creditos desaprobados acumulados:               4.00
+======================================================================================================================================================
+       7.  Alumno: 20209352 - Bravo Vizcarra Roberto                       PASA A FACULTAD
+           NOTAS EN EL CICLO
+              CURSO                                           CREDITOS    NOTA
+              QUI412 - Quimica Inorganica 1                     4.00        14
+              CIV717 - Puentes                                  3.00        13
+              CIV291 - Proceso de Construccion 1                3.50         9
+              INF203 - Sistemas de Informacion 1                4.25        11
+------------------------------------------------------------------------------------------------------------------------------------------------------
+RESULTADOS AL FINAL DEL CICLO
+Creditos aprobados en el ciclo:       11.25            Promedio ponderado cursos aprobados:    12.60
+Creditos desaprobados en el ciclo:     3.50            Promedio ponderado cursos desaprobados:  9.00
+Promedio ponderado en el ciclo:                11.75
+Creditos aprobados acumulados:                 93.75
+Creditos desaprobados acumulados:               3.50
+======================================================================================================================================================
+       8.  Alumno: 20200875 - Norabuena Villegas Arturo Rafael             PASA A FACULTAD
+           NOTAS EN EL CICLO
+              CURSO                                           CREDITOS    NOTA
+              CIV123 - Instalaciones de Edificaciones           3.75        14
+              IEE372 - Microelectronica                         4.50        18
+              QUI412 - Quimica Inorganica 1                     4.00        12
+              CIV717 - Puentes                                  3.00        15
+------------------------------------------------------------------------------------------------------------------------------------------------------
+RESULTADOS AL FINAL DEL CICLO
+Creditos aprobados en el ciclo:       15.25            Promedio ponderado cursos aprobados:    14.85
+Creditos desaprobados en el ciclo:     0.00            Promedio ponderado cursos desaprobados:   nan
+Promedio ponderado en el ciclo:                14.85
+Creditos aprobados acumulados:                 93.25
+Creditos desaprobados acumulados:               3.50
+======================================================================================================================================================
+       9.  Alumno: 20215105 - Valderrama Mendoza Luis Adolfo               PASA A FACULTAD
+           NOTAS EN EL CICLO
+              CURSO                                           CREDITOS    NOTA
+              IEE372 - Microelectronica                         4.50        12
+              IEE309 - Circuitos Electricos 2                   5.00        15
+              QUI412 - Quimica Inorganica 1                     4.00        13
+              CIV717 - Puentes                                  3.00        15
+              INF203 - Sistemas de Informacion 1                4.25        12
+------------------------------------------------------------------------------------------------------------------------------------------------------
+RESULTADOS AL FINAL DEL CICLO
+Creditos aprobados en el ciclo:       20.75            Promedio ponderado cursos aprobados:    13.35
+Creditos desaprobados en el ciclo:     0.00            Promedio ponderado cursos desaprobados:   nan
+Promedio ponderado en el ciclo:                13.35
+Creditos aprobados acumulados:                 69.25
+Creditos desaprobados acumulados:               2.50
+======================================================================================================================================================
+      10.  Alumno: 20211731 - Loyola Iberos Angel Gustavo                  NO PASA A FACULTAD
+           NOTAS EN EL CICLO
+              CURSO                                           CREDITOS    NOTA
+              CIV123 - Instalaciones de Edificaciones           3.75        11
+              MEC101 - Corrosion                                5.00        10
+              IEE372 - Microelectronica                         4.50         8
+              IEE309 - Circuitos Electricos 2                   5.00        10
+              QUI412 - Quimica Inorganica 1                     4.00        12
+------------------------------------------------------------------------------------------------------------------------------------------------------
+RESULTADOS AL FINAL DEL CICLO
+Creditos aprobados en el ciclo:        7.75            Promedio ponderado cursos aprobados:    11.52
+Creditos desaprobados en el ciclo:    14.50            Promedio ponderado cursos desaprobados:  9.38
+Promedio ponderado en el ciclo:                10.12
+Creditos aprobados acumulados:                 64.25
+Creditos desaprobados acumulados:              18.00
+======================================================================================================================================================
+      11.  Alumno: 20198025 - Moscoso Sueldo Marina                        NO PASA A FACULTAD
+           NOTAS EN EL CICLO
+              CURSO                                           CREDITOS    NOTA
+              CIV123 - Instalaciones de Edificaciones           3.75        11
+              IEE372 - Microelectronica                         4.50        13
+              INF123 - Sistemas Operativos                      3.50         7
+------------------------------------------------------------------------------------------------------------------------------------------------------
+RESULTADOS AL FINAL DEL CICLO
+Creditos aprobados en el ciclo:        8.25            Promedio ponderado cursos aprobados:    12.09
+Creditos desaprobados en el ciclo:     3.50            Promedio ponderado cursos desaprobados:  7.00
+Promedio ponderado en el ciclo:                10.57
+Creditos aprobados acumulados:                 44.75
+Creditos desaprobados acumulados:               6.00
+======================================================================================================================================================
+      12.  Alumno: 20212521 - Soria Castillo Luis Gustavo                  NO PASA A FACULTAD
+           NOTAS EN EL CICLO
+              CURSO                                           CREDITOS    NOTA
+              CIV123 - Instalaciones de Edificaciones           3.75        12
+              MEC101 - Corrosion                                5.00        11
+              IEE309 - Circuitos Electricos 2                   5.00         8
+------------------------------------------------------------------------------------------------------------------------------------------------------
+RESULTADOS AL FINAL DEL CICLO
+Creditos aprobados en el ciclo:        8.75            Promedio ponderado cursos aprobados:    11.43
+Creditos desaprobados en el ciclo:     5.00            Promedio ponderado cursos desaprobados:  8.00
+Promedio ponderado en el ciclo:                10.18
+Creditos aprobados acumulados:                 54.25
+Creditos desaprobados acumulados:               8.50
+======================================================================================================================================================
+      13.  Alumno: 20193402 - Benavente Zimic Madeleine Zkenia             PASA A FACULTAD
+           NOTAS EN EL CICLO
+              CURSO                                           CREDITOS    NOTA
+              INF123 - Sistemas Operativos                      3.50        13
+              CIV291 - Proceso de Construccion 1                3.50        14
+              INF203 - Sistemas de Informacion 1                4.25        16
+              IND111 - Gestion de Recursos Humanos              3.25        15
+------------------------------------------------------------------------------------------------------------------------------------------------------
+RESULTADOS AL FINAL DEL CICLO
+Creditos aprobados en el ciclo:       14.50            Promedio ponderado cursos aprobados:    14.57
+Creditos desaprobados en el ciclo:     0.00            Promedio ponderado cursos desaprobados:   nan
+Promedio ponderado en el ciclo:                14.57
+Creditos aprobados acumulados:                 90.00
+Creditos desaprobados acumulados:               2.50
+======================================================================================================================================================
+      14.  Alumno: 20214468 - Iparraguirre Villegas Nicolas Edilberto      PASA A FACULTAD
+           NOTAS EN EL CICLO
+              CURSO                                           CREDITOS    NOTA
+              MEC101 - Corrosion                                5.00        12
+              IEE309 - Circuitos Electricos 2                   5.00        15
+              INF123 - Sistemas Operativos                      3.50        12
+              CIV717 - Puentes                                  3.00        13
+              IND111 - Gestion de Recursos Humanos              3.25        18
+------------------------------------------------------------------------------------------------------------------------------------------------------
+RESULTADOS AL FINAL DEL CICLO
+Creditos aprobados en el ciclo:       19.75            Promedio ponderado cursos aprobados:    13.90
+Creditos desaprobados en el ciclo:     0.00            Promedio ponderado cursos desaprobados:   nan
+Promedio ponderado en el ciclo:                13.90
+Creditos aprobados acumulados:                 98.25
+Creditos desaprobados acumulados:               4.50
+======================================================================================================================================================
+      15.  Alumno: 20207732 - Gamarra Alcocer Virginia                     PASA A FACULTAD
+           NOTAS EN EL CICLO
+              CURSO                                           CREDITOS    NOTA
+              CIV123 - Instalaciones de Edificaciones           3.75        13
+              IEE372 - Microelectronica                         4.50        14
+              IEE309 - Circuitos Electricos 2                   5.00        15
+              CIV291 - Proceso de Construccion 1                3.50        18
+              IND111 - Gestion de Recursos Humanos              3.25        14
+------------------------------------------------------------------------------------------------------------------------------------------------------
+RESULTADOS AL FINAL DEL CICLO
+Creditos aprobados en el ciclo:       20.00            Promedio ponderado cursos aprobados:    14.76
+Creditos desaprobados en el ciclo:     0.00            Promedio ponderado cursos desaprobados:   nan
+Promedio ponderado en el ciclo:                14.76
+Creditos aprobados acumulados:                 85.00
+Creditos desaprobados acumulados:               3.00
+======================================================================================================================================================
